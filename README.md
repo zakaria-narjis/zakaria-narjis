@@ -11,8 +11,8 @@ Hello! I'm an ex-electrical engineer currently pursuing a MSc in Robotics and Au
 
 ---
 
-### Projects:
-- **Food Recommendations System** using machine learning techniques.
+### I have contributed to a diverse range of projects, including:
+- **Recommendations System** using machine learning techniques.
 - **Reinforcement Learning Algorithms** for various applications.
 - **Deep Learning** for Medical Imaging, image editing & enhancement.
 
