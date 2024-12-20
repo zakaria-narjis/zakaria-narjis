@@ -28,7 +28,7 @@ Hello! I'm an ex-electrical engineer currently pursuing a MSc in Robotics and Au
 
 ---
 
-### Hire/Contact Me:
+### Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/zakaria-narjis/)
 
