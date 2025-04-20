@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello! I'm an ex-electrical engineer currently pursuing a MSc in Robotics and Autonomous Systems at the University of Lübeck, Germany. My passion lies in the fields of Deep Learning, Reinforcement Learning, and Computer Vision.
+Hello! I'm an ex-electrical engineer with an MSc in Robotics and Autonomous Systems from the University of Lübeck, Germany. My passions are Deep Learning, Reinforcement Learning, and Computer Vision.
 
 ---
 
