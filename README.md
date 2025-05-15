@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello! I'm an ex-electrical engineer with an MSc in Robotics and Autonomous Systems from the University of Lübeck, Germany.
+Hello! I'm an ML engineer/researcher with an MSc in Robotics and Autonomous Systems from the University of Lübeck, Germany.
 
 ---
 
