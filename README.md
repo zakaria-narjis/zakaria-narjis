@@ -39,7 +39,6 @@ Feel free to explore my repositories and connect with me for collaborations!
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=zakaria-narjis&theme=python-dark" alt="GitHub Streak">
   </a>
-  <p>Thank you for visiting my profile!</p>
 </div>
 
 
