@@ -1,22 +1,31 @@
 # Welcome to My GitHub Profile
 
-Hello! I'm a ML engineer/researcher with an MSc in Robotics and Autonomous Systems from the University of Lübeck, Germany.
+ML Engineer & Researcher | MSc Robotics & Autonomous Systems, University of Lübeck
 
 ---
 
-### Fields of Interest:
-- **Deep Learning**
-- **Reinforcement Learning**
-- **Computer Vision**
-
----
-
-### I have contributed to a diverse range of projects, including:
-- **Recommendations System** using machine learning techniques.
-- **Reinforcement Learning Algorithms** for various applications.
-- **Deep Learning** for Medical Imaging, image editing & enhancement.
-
----
+```yaml
+apiVersion: engineer.io/v1
+kind: MLResearcher
+metadata:
+  name: zakaria-narjis
+  annotations:
+    website: "https://github.com/zakaria-narjis"
+spec:
+  focus:
+    - Machine Learning & Reinforcement Learning
+    - Computer Vision & Perception Systems
+    - LLMs & Medical Knowledge Extraction
+    - End-to-End ML System Deployment
+  currentlyBuilding:
+    - iSCAT Nanoparticle Segmentation & Size Estimation Pipelines
+    - Photo Enhancement RL App & Generative Diffusion Models
+    - Open-Source Modular RL Library (ModulaRL)
+    - Diet Recommendation System with FastAPI & Streamlit
+    - LLM-based Medical Causality Extraction & Relation Modeling
+    - Reinforcement Learning Agent for Banania Game
+  philosophy: "git init, push push push..."
+```
 
 ### Technologies & Tools:
 
@@ -27,6 +36,7 @@ Hello! I'm a ML engineer/researcher with an MSc in Robotics and Autonomous Syste
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ---
+
 
 ### Contact Me:
 
