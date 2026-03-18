@@ -10,7 +10,7 @@ kind: MLResearcher
 metadata:
   name: zakaria-narjis
   annotations:
-    website: "https://github.com/zakaria-narjis"
+    website: "https://zakaria-narjis.com"
 spec:
   focus:
     - Machine Learning & Reinforcement Learning
